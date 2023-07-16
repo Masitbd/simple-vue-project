@@ -14,8 +14,9 @@ import AppPricing from './components/AppPricing.vue'
    <AppHome />
    <AppProject />
    <AppPricing/>
+   
   </main>
- <AppFooter />
+  <AppFooter />
 </template>
 
 <style scoped>
