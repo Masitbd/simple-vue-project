@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-   <div class="container mx-auto mx-32  ">
+   <div class>
     <div class="grid grid-cols-2 gap-16 my-12">
       <div class="">
        <h1 class="text-6xl">Promote Your Products <br> by Colorlib</h1>
